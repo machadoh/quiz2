@@ -1,0 +1,36 @@
+body {
+ 	background-color: black;
+ 	font-family: "Arial";
+ 	font-weight: 350;
+ 	margin:2cm 5cm 3cm 12cm;
+ }
+h2{
+	font-size: 40px;
+	font-family:'Arial';
+	text-align:center;
+	color: Red;
+}
+
+h3{
+	font-size: 20px;
+	font-family:'Arial';
+	text-align:center;
+	color: Red;
+
+}
+form{
+	text-align:center;
+	
+}
+p{
+	font-size: 20px;
+	font-family:'Arial';
+	color: green;
+}
+footer{
+	color:Red;
+	font-size:40px;
+	margin: 2cm 3cm 2cm 3cm;
+  	padding: 1rem;
+  	text-align: right;
+}
